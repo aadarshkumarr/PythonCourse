@@ -40,3 +40,11 @@ for i in range(5, 14):
 
 print()
 
+# While loop
+
+r=1
+while r<7:
+    print(r)
+    if r==5:
+        break
+    r+=1
